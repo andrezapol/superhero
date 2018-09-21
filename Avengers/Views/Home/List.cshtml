@@ -1,0 +1,41 @@
+﻿@model IEnumerable<Avengers.Entidade.Heroes>
+
+@if (Model != null)
+{
+<table class="table">
+
+    <tr>
+        @foreach (var item in Model)
+        {
+            <td>
+                <img src="@item.URL" alt="@item.HeroName" onclick="Exibir('@item.Id')" /> 
+                   
+                
+            </td>
+        }
+    </tr>
+
+    <tr>
+        @foreach (var item in Model)
+        {
+            <td >
+                <div id="@item.Id" style="display:none;"> @item.HeroDescription </div>
+            </td>
+        }
+    </tr>
+</table>
+}
+else
+{
+    <div>
+        Nenhum registro encontrado.
+    </div>
+}
+
+<script>
+
+    function Exibir(Id)
+    {
+        document.getElementById(Id).style.display="block";
+    }
+</script>

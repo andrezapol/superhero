@@ -1,0 +1,12 @@
+C:\Users\andreza\OneDrive\Projetos\Avengers\Avengers.Repositorio\bin\Debug\netstandard2.0\Avengers.Repositorio.deps.json
+C:\Users\andreza\OneDrive\Projetos\Avengers\Avengers.Repositorio\bin\Debug\netstandard2.0\Avengers.Repositorio.dll
+C:\Users\andreza\OneDrive\Projetos\Avengers\Avengers.Repositorio\bin\Debug\netstandard2.0\Avengers.Repositorio.pdb
+C:\Users\andreza\OneDrive\Projetos\Avengers\Avengers.Repositorio\obj\Debug\netstandard2.0\Avengers.Repositorio.csprojAssemblyReference.cache
+C:\Users\andreza\OneDrive\Projetos\Avengers\Avengers.Repositorio\obj\Debug\netstandard2.0\Avengers.Repositorio.csproj.CoreCompileInputs.cache
+C:\Users\andreza\OneDrive\Projetos\Avengers\Avengers.Repositorio\obj\Debug\netstandard2.0\Avengers.Repositorio.AssemblyInfoInputs.cache
+C:\Users\andreza\OneDrive\Projetos\Avengers\Avengers.Repositorio\obj\Debug\netstandard2.0\Avengers.Repositorio.AssemblyInfo.cs
+C:\Users\andreza\OneDrive\Projetos\Avengers\Avengers.Repositorio\obj\Debug\netstandard2.0\Avengers.Repositorio.dll
+C:\Users\andreza\OneDrive\Projetos\Avengers\Avengers.Repositorio\obj\Debug\netstandard2.0\Avengers.Repositorio.pdb
+C:\Users\andreza\OneDrive\Projetos\Avengers\Avengers.Repositorio\bin\Debug\netstandard2.0\Avengers.Entidade.dll
+C:\Users\andreza\OneDrive\Projetos\Avengers\Avengers.Repositorio\bin\Debug\netstandard2.0\Avengers.Entidade.pdb
+C:\Users\andreza\OneDrive\Projetos\Avengers\Avengers.Repositorio\obj\Debug\netstandard2.0\Avengers.Repositorio.csproj.CopyComplete

@@ -1,0 +1,20 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Create</title>
+</head>
+<body>
+    <form id="frmCadastrar" method="post" action="@Url.Action("Create","Home")">
+        <input type="text" id="txtName" name="txtName" />
+        <input type="text" id="txtDescription" name="txtDescription" />
+        <input type="submit" value="Save" />
+    </form>
+</body>
+</html>

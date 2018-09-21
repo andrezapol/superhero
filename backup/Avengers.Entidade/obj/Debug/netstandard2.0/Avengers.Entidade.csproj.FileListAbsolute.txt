@@ -1,0 +1,9 @@
+C:\Users\andreza\OneDrive\Projetos\Avengers\Avengers.Entidade\bin\Debug\netstandard2.0\Avengers.Entidade.deps.json
+C:\Users\andreza\OneDrive\Projetos\Avengers\Avengers.Entidade\bin\Debug\netstandard2.0\Avengers.Entidade.dll
+C:\Users\andreza\OneDrive\Projetos\Avengers\Avengers.Entidade\bin\Debug\netstandard2.0\Avengers.Entidade.pdb
+C:\Users\andreza\OneDrive\Projetos\Avengers\Avengers.Entidade\obj\Debug\netstandard2.0\Avengers.Entidade.csprojAssemblyReference.cache
+C:\Users\andreza\OneDrive\Projetos\Avengers\Avengers.Entidade\obj\Debug\netstandard2.0\Avengers.Entidade.csproj.CoreCompileInputs.cache
+C:\Users\andreza\OneDrive\Projetos\Avengers\Avengers.Entidade\obj\Debug\netstandard2.0\Avengers.Entidade.AssemblyInfoInputs.cache
+C:\Users\andreza\OneDrive\Projetos\Avengers\Avengers.Entidade\obj\Debug\netstandard2.0\Avengers.Entidade.AssemblyInfo.cs
+C:\Users\andreza\OneDrive\Projetos\Avengers\Avengers.Entidade\obj\Debug\netstandard2.0\Avengers.Entidade.dll
+C:\Users\andreza\OneDrive\Projetos\Avengers\Avengers.Entidade\obj\Debug\netstandard2.0\Avengers.Entidade.pdb

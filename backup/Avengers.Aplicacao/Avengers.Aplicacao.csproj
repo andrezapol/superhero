@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Avengers.Entidade\Avengers.Entidade.csproj" />
+    <ProjectReference Include="..\Avengers.Repositorio\Avengers.Repositorio.csproj" />
+  </ItemGroup>
+
+</Project>

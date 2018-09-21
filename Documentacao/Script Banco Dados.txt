@@ -1,0 +1,17 @@
+/ Cria o banco de dados Avengers /
+
+CREATE DATABASE Avengers;
+
+
+/ Selecione o banco de dados Avengers /
+
+USE Avengers;
+
+/ Cria a Tabela de SuperHero /
+CREATE TABLE SuperHero (
+    Codigo int NOT NULL AUTO_INCREMENT,
+    Name varchar(255),
+    Description varchar(255),
+    URL varchar(255),
+    PRIMARY KEY (Codigo)
+);

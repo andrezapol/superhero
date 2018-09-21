@@ -1,0 +1,15 @@
+C:\Users\andreza\OneDrive\Projetos\Avengers\Avengers.Aplicacao\obj\Debug\Avengers.Aplicacao.csprojAssemblyReference.cache
+C:\Users\andreza\OneDrive\Projetos\Avengers\Avengers.Aplicacao\obj\Debug\Avengers.Aplicacao.csproj.CoreCompileInputs.cache
+C:\Users\andreza\OneDrive\Projetos\Avengers\Avengers.Aplicacao\bin\Debug\Avengers.Aplicacao.dll
+C:\Users\andreza\OneDrive\Projetos\Avengers\Avengers.Aplicacao\bin\Debug\Avengers.Aplicacao.pdb
+C:\Users\andreza\OneDrive\Projetos\Avengers\Avengers.Aplicacao\bin\Debug\Avengers.Entidades.dll
+C:\Users\andreza\OneDrive\Projetos\Avengers\Avengers.Aplicacao\bin\Debug\Avengers.Repositorio.dll
+C:\Users\andreza\OneDrive\Projetos\Avengers\Avengers.Aplicacao\bin\Debug\MySql.Data.dll
+C:\Users\andreza\OneDrive\Projetos\Avengers\Avengers.Aplicacao\bin\Debug\Google.Protobuf.dll
+C:\Users\andreza\OneDrive\Projetos\Avengers\Avengers.Aplicacao\bin\Debug\Avengers.Entidades.pdb
+C:\Users\andreza\OneDrive\Projetos\Avengers\Avengers.Aplicacao\bin\Debug\Avengers.Repositorio.pdb
+C:\Users\andreza\OneDrive\Projetos\Avengers\Avengers.Aplicacao\bin\Debug\MySql.Data.xml
+C:\Users\andreza\OneDrive\Projetos\Avengers\Avengers.Aplicacao\bin\Debug\Google.Protobuf.xml
+C:\Users\andreza\OneDrive\Projetos\Avengers\Avengers.Aplicacao\obj\Debug\Avengers.Aplicacao.csproj.CopyComplete
+C:\Users\andreza\OneDrive\Projetos\Avengers\Avengers.Aplicacao\obj\Debug\Avengers.Aplicacao.dll
+C:\Users\andreza\OneDrive\Projetos\Avengers\Avengers.Aplicacao\obj\Debug\Avengers.Aplicacao.pdb

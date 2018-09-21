@@ -1,0 +1,6 @@
+C:\Users\andreza\OneDrive\Projetos\Avengers\Avengers.Entidades\bin\Debug\Avengers.Entidades.dll
+C:\Users\andreza\OneDrive\Projetos\Avengers\Avengers.Entidades\bin\Debug\Avengers.Entidades.pdb
+C:\Users\andreza\OneDrive\Projetos\Avengers\Avengers.Entidades\obj\Debug\Avengers.Entidades.csprojAssemblyReference.cache
+C:\Users\andreza\OneDrive\Projetos\Avengers\Avengers.Entidades\obj\Debug\Avengers.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\andreza\OneDrive\Projetos\Avengers\Avengers.Entidades\obj\Debug\Avengers.Entidades.dll
+C:\Users\andreza\OneDrive\Projetos\Avengers\Avengers.Entidades\obj\Debug\Avengers.Entidades.pdb
